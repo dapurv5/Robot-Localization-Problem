@@ -31,7 +31,5 @@
 \contentsline {section}{\numberline {6.2}Algorithm}{26}{section.6.2}
 \contentsline {section}{\numberline {6.3}Examples}{27}{section.6.3}
 \contentsline {chapter}{Appendix1}{29}{appendix*.4}
-\contentsline {section}{\numberline {.1}Input Format of the Map}{29}{section.Alph0.1}
-\contentsline {chapter}{Appendix 3}{31}{appendix*.5}
-\contentsline {section}{\numberline {.2}OpenGL}{31}{section.Alph0.2}
-\contentsline {chapter}{References}{33}{appendix*.6}
+\contentsline {chapter}{Appendix 2}{31}{appendix*.6}
+\contentsline {chapter}{References}{33}{appendix*.8}
